@@ -9,8 +9,6 @@ simulated by a process.
 • The switch of the fast Ethernet is also simulated by a process. These processes can run on different workstations
 in the Linux lab.
 
-SIMULATION OF THE ETHERNET
-==========================
 
 Program files:
 ==============
